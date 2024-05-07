@@ -1,0 +1,4 @@
+first do npm i both root directory
+second make it build frontend 
+third pase in to in backend root directory
+then npm start both files
